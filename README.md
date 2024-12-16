@@ -1,2 +1,2 @@
-# Gravity-website
+# Gra-website
 frontend website
